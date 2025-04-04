@@ -1,6 +1,6 @@
 -  👋 Hi, I'm @sylphietta
 - 👀 My hobbies are Reverse Engineering
-. -  🌱 I'm a C++ and c# developer
+. -  🌱 I'm a C++ and C# developer
 - 📫 How to contact me - t.me/sylphydev
 - ⚡ Fun fact: I play dota 2 :3
 
